@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/tinker-sample-android.iml" filepath="$PROJECT_DIR$/tinker-sample-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinkertest/tinkertest.iml" filepath="$PROJECT_DIR$/tinkertest/tinkertest.iml" />
     </modules>
   </component>
 </project>
